@@ -1,2 +1,0 @@
-# tiktoksa
- gs
